@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/bettatag">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-gehlen&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandro-gehlen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettatag&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettatag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills [en] / Habilidades [pt-br]
